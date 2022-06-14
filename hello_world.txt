@@ -1,2 +1,4 @@
 This is just some text to 
 test and become familiar with Git and Github.
+
+This is the 3rd commit
