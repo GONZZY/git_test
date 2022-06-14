@@ -1,0 +1,2 @@
+This is just some text to 
+test and become familiar with Git and Github.
